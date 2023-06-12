@@ -1,0 +1,229 @@
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Azure.Core.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Azure.Identity.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.CodeDom.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Text.Json.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+D:\Celebal\.Net Core\Assignments\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Azure.Core.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Azure.Identity.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+D:\Celebal\.Net Core\Assignments\EmployeeManagement ADO\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Azure.Core.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Azure.Identity.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\BCrypt.Net-Next.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\System.Memory.Data.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+F:\ado.net second\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Scrutor.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+F:\ado.net second\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
