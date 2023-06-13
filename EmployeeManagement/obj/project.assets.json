@@ -2494,19 +2494,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ug123\\.nuget\\packages\\": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ado.net second\\EmployeeManagement\\Taskado.net.csproj",
-      "projectName": "Taskado.net",
-      "projectPath": "F:\\ado.net second\\EmployeeManagement\\Taskado.net.csproj",
-      "packagesPath": "C:\\Users\\ug123\\.nuget\\packages\\",
-      "outputPath": "F:\\ado.net second\\EmployeeManagement\\obj\\",
+      "projectUniqueName": "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\Emp_DatabaseApp.csproj",
+      "projectName": "Emp_DatabaseApp",
+      "projectPath": "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\Emp_DatabaseApp.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ug123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2576,7 +2576,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -7,18 +7,18 @@ using Microsoft.Extensions.Configuration;
 namespace EmployeeManagement.Repositories
 {
 
-    public class UserRepository
+    public class EmpRepository
     {
         private readonly IConfiguration configuration;
 
-        public UserRepository(IConfiguration configuration)
+        public EmpRepository(IConfiguration configuration)
         {
             this.configuration = configuration;
         }
 
         private string GetConnectionString()
         {
-            return configuration.GetConnectionString("MyDbConnection");
+            return configuration.GetConnectionString("SqlDbConnection");
         }
 
         private SqlConnection GetConnection()
@@ -27,19 +27,19 @@ namespace EmployeeManagement.Repositories
             return new SqlConnection(connectionString);
         }
 
-        public User GetUserById(int id)
+        public Employee GetById(int id)
         {
             using (SqlConnection connection = GetConnection())
             {
                
                     connection.Open();
-                    SqlCommand command = new SqlCommand("SELECT * FROM Users WHERE Id = @Id", connection);
+                    SqlCommand command = new SqlCommand("SELECT * FROM Employee WHERE Id = @Id", connection);
                     command.Parameters.AddWithValue("@Id", id);
                     SqlDataReader reader = command.ExecuteReader();
 
                     if (reader.Read())
                     {
-                        return GetUserFromSql(reader);
+                        return GetEmpFromSql(reader);
                     }
 
                     return null;
@@ -49,20 +49,20 @@ namespace EmployeeManagement.Repositories
         
     
 
-    public User GetUserByEmail(string email)
+    public Employee GetEmployee (string email)
     {
             using (SqlConnection connection = GetConnection())
             {
                
 
                 connection.Open();
-                SqlCommand command = new SqlCommand("SELECT * FROM Users WHERE Email = @Email", connection);
+                SqlCommand command = new SqlCommand("SELECT * FROM Employee WHERE Email = @Email", connection);
                 command.Parameters.AddWithValue("@Email", email);
                 SqlDataReader reader = command.ExecuteReader();
 
                 if (reader.Read())
                 {
-                    return GetUserFromSql(reader);
+                    return GetEmpFromSql(reader);
                 }
 
                 return null;
@@ -70,73 +70,73 @@ namespace EmployeeManagement.Repositories
             }
     }
 
-    public void RegisterUser(User user)
+    public void AddEmployee(Employee employee)
     {
             using (SqlConnection connection = GetConnection())
             {
                
 
                 connection.Open();
-                SqlCommand command = new SqlCommand("INSERT INTO Users (Name, Email, Role, Password) VALUES (@Name, @Email, @Role, @Password)", connection);
-                command.Parameters.AddWithValue("@Name", user.Name);
-                command.Parameters.AddWithValue("@Email", user.Email);
-                command.Parameters.AddWithValue("@Role", user.Role);
-                command.Parameters.AddWithValue("@Password", user.Password);
+                SqlCommand command = new SqlCommand("INSERT INTO Employee (Name, Email, Role, Password) VALUES (@Name, @Email, @Role, @Password)", connection);
+                command.Parameters.AddWithValue("@Name", employee.Name);
+                command.Parameters.AddWithValue("@Email", employee.Email);
+                command.Parameters.AddWithValue("@Role", employee.Role);
+                command.Parameters.AddWithValue("@Password", employee.Password);
                 command.ExecuteNonQuery();
                
                     
             }
     }
 
-    public List<User> GetAllUsers()
+    public List<Employee> GetEmployees()
     {
-        List<User> Users = new List<User>();
+        List<Employee> Employee = new List<Employee>();
 
         using (SqlConnection connection = GetConnection())
         {
             connection.Open();
-            SqlCommand command = new SqlCommand("SELECT * FROM Users", connection);
+            SqlCommand command = new SqlCommand("SELECT * FROM Employee", connection);
             SqlDataReader reader = command.ExecuteReader();
 
             while (reader.Read())
             {
-                User user = GetUserFromSql(reader);
-                Users.Add(user);
+                Employee employee = GetEmpFromSql(reader);
+                Employee.Add(employee);
             }
         }
 
-        return Users;
+        return Employee;
     }
 
-    public void UpdateUser(User user)
+    public void UpdateEmp(Employee employee)
     {
         using (SqlConnection connection =GetConnection())
         {
             connection.Open();
-            SqlCommand command = new SqlCommand("UPDATE Users SET Name = @Name, Email = @Email, Role = @Role, Password = @Password WHERE Id = @Id", connection);
-            command.Parameters.AddWithValue("@Id", user.Id);
-            command.Parameters.AddWithValue("@Name", user.Name);
-            command.Parameters.AddWithValue("@Email", user.Email);
-            command.Parameters.AddWithValue("@Role", user.Role);
-            command.Parameters.AddWithValue("@Password", user.Password);
+            SqlCommand command = new SqlCommand("UPDATE Employee SET Name = @Name, Email = @Email, Role = @Role, Password = @Password WHERE Id = @Id", connection);
+            command.Parameters.AddWithValue("@Id", employee.Id);
+            command.Parameters.AddWithValue("@Name", employee.Name);
+            command.Parameters.AddWithValue("@Email", employee.Email);
+            command.Parameters.AddWithValue("@Role", employee.Role);
+            command.Parameters.AddWithValue("@Password", employee.Password);
             command.ExecuteNonQuery();
         }
     }
 
-    public void DeleteUser(int id)
+    public void DeleteEmp(int id)
     {
         using (SqlConnection connection = GetConnection())
         {
             connection.Open();
-            SqlCommand command = new SqlCommand("DELETE FROM Users WHERE Id = @Id", connection);
+            SqlCommand command = new SqlCommand("DELETE FROM Employee WHERE Id = @Id", connection);
             command.Parameters.AddWithValue("@Id", id);
             command.ExecuteNonQuery();
         }
     }
 
-    private User GetUserFromSql(SqlDataReader reader)
+    private Employee GetEmpFromSql(SqlDataReader reader)
     {
-        return new User
+        return new Employee
         {
             Id = (int)reader["Id"],
             Name = (string)reader["Name"],

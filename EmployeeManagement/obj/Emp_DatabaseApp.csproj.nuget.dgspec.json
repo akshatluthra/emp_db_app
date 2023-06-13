@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\Taskado.net.csproj": {}
+    "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\Emp_DatabaseApp.csproj": {}
   },
   "projects": {
-    "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\Taskado.net.csproj": {
+    "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\Emp_DatabaseApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\Taskado.net.csproj",
-        "projectName": "Taskado.net",
-        "projectPath": "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\Taskado.net.csproj",
+        "projectUniqueName": "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\Emp_DatabaseApp.csproj",
+        "projectName": "Emp_DatabaseApp",
+        "projectPath": "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\Emp_DatabaseApp.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
         "outputPath": "E:\\Celebel_Training\\.NET\\Assignment\\taskwithado.net\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",

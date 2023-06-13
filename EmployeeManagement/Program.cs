@@ -11,7 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 //add employee repository
 
-builder.Services.AddScoped<UserRepository>();
+builder.Services.AddScoped<EmpRepository>();
 
 builder.Services.AddControllers();
     
